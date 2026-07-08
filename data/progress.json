@@ -1,0 +1,61 @@
+{
+  "aws-certified-cloud-practitioner": {
+    "videos": {
+      "L1VzZXJzL3ZhYnMvRG9jdW1lbnRzL0FJLXN0dWR5L05ldy1yb2xlL0NvdXJzZXMvQVdTIENlcnRpZmllZCBDbG91ZCBQcmFjdGl0aW9uZXIvenRtLWF3c3BzLzEuIEFXUyBDZXJ0aWZpZWQgQ2xvdWQgUHJhY3RpdGlvbmVyIDM0OTdLLm1wNA": {
+        "position": 0,
+        "updatedAt": "2026-07-08T01:51:39.569Z",
+        "watched": true
+      },
+      "L1VzZXJzL3ZhYnMvRG9jdW1lbnRzL0FJLXN0dWR5L05ldy1yb2xlL0NvdXJzZXMvQVdTIENlcnRpZmllZCBDbG91ZCBQcmFjdGl0aW9uZXIvenRtLWF3c3BzLzIuIEludHJvZHVjdGlvbiA4NjBLLm1wNA": {
+        "position": 0,
+        "updatedAt": "2026-07-08T01:51:42.684Z",
+        "watched": true
+      },
+      "L1VzZXJzL3ZhYnMvRG9jdW1lbnRzL0FJLXN0dWR5L05ldy1yb2xlL0NvdXJzZXMvQVdTIENlcnRpZmllZCBDbG91ZCBQcmFjdGl0aW9uZXIvenRtLWF3c3BzLzMuIENvdXJzZSBPdXRsaW5lIDg4OUsubXA0": {
+        "watched": true,
+        "position": 2.528478,
+        "updatedAt": "2026-07-08T01:51:46.244Z"
+      },
+      "L1VzZXJzL3ZhYnMvRG9jdW1lbnRzL0FJLXN0dWR5L05ldy1yb2xlL0NvdXJzZXMvQVdTIENlcnRpZmllZCBDbG91ZCBQcmFjdGl0aW9uZXIvenRtLWF3c3BzLzQuIERlbW8gQ3JlYXRpbmcgYW4gQVdTIEFjY291bnQgZm9yIExhYnMgNDg1Sy5tcDQ": {
+        "position": 0,
+        "updatedAt": "2026-07-08T01:53:20.272Z",
+        "watched": true
+      },
+      "L1VzZXJzL3ZhYnMvRG9jdW1lbnRzL0FJLXN0dWR5L05ldy1yb2xlL0NvdXJzZXMvQVdTIENlcnRpZmllZCBDbG91ZCBQcmFjdGl0aW9uZXIvenRtLWF3c3BzLzUuIERlbW8gQSBMYXAgQXJvdW5kIHRoZSBBV1MgQ29uc29sZSA1NjVLLm1wNA": {
+        "position": 0,
+        "updatedAt": "2026-07-08T01:53:23.382Z",
+        "watched": true
+      },
+      "L1VzZXJzL3ZhYnMvRG9jdW1lbnRzL0FJLXN0dWR5L05ldy1yb2xlL0NvdXJzZXMvQVdTIENlcnRpZmllZCBDbG91ZCBQcmFjdGl0aW9uZXIvenRtLWF3c3BzLzYuIERlbW8gQ3JlYXRpbmcgYW4gQVdTIEJ1ZGdldCBmb3IgTGFicyA0OTVLLm1wNA": {
+        "watched": true,
+        "position": 0,
+        "updatedAt": "2026-07-08T01:53:25.735Z"
+      },
+      "L1VzZXJzL3ZhYnMvRG9jdW1lbnRzL0FJLXN0dWR5L05ldy1yb2xlL0NvdXJzZXMvQVdTIENlcnRpZmllZCBDbG91ZCBQcmFjdGl0aW9uZXIvenRtLWF3c3BzLzcuIEludHJvZHVjdGlvbiA3MTZLLm1wNA": {
+        "position": 0,
+        "updatedAt": "2026-07-08T01:53:28.049Z",
+        "watched": true
+      },
+      "L1VzZXJzL3ZhYnMvRG9jdW1lbnRzL0FJLXN0dWR5L05ldy1yb2xlL0NvdXJzZXMvQVdTIENlcnRpZmllZCBDbG91ZCBQcmFjdGl0aW9uZXIvenRtLWF3c3BzLzguIFRoZSBDb3JlIENvbXBvbmVudHMgUmVxdWlyZWQgdG8gUnVuIFlvdXIgV2Vic2l0ZSA2MjBLLm1wNA": {
+        "position": 0.663966,
+        "updatedAt": "2026-07-08T01:53:31.490Z"
+      }
+    }
+  },
+  "aws-certified-solutions-architect-zero-to-mastery": {
+    "videos": {
+      "L1VzZXJzL3ZhYnMvRG9jdW1lbnRzL0FJLXN0dWR5L05ldy1yb2xlL0NvdXJzZXMvQVdTIENlcnRpZmllZCBTb2x1dGlvbnMgQXJjaGl0ZWN0IFplcm8gdG8gTWFzdGVyeS9sZXNzb24xLm1wNA": {
+        "position": 0,
+        "updatedAt": "2026-07-08T01:52:15.902Z"
+      }
+    }
+  },
+  "claude-code": {
+    "videos": {
+      "L1VzZXJzL3ZhYnMvRG9jdW1lbnRzL0FJLXN0dWR5L05ldy1yb2xlL0NvdXJzZXMvQ2xhdWRlIENvZGUvMS4xLSBXZWxjb21lIDE2MTlLLm1wNA": {
+        "position": 0,
+        "updatedAt": "2026-07-08T01:52:30.882Z"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>My Courses</title>
+<link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-left">
+      <select id="course-select"></select>
+    </div>
+    <div class="topbar-progress">
+      <div class="progress-track"><div class="progress-fill" id="overall-fill"></div></div>
+      <span id="overall-label">0%</span>
+    </div>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-tabs">
+        <button class="tab-btn active" data-tab="curriculum">Curriculum</button>
+        <button class="tab-btn" data-tab="resources">Resources</button>
+        <button class="tab-btn" data-tab="slides">Slides</button>
+      </div>
+      <div class="tab-panel" id="panel-curriculum"></div>
+      <div class="tab-panel hidden" id="panel-resources"></div>
+      <div class="tab-panel hidden" id="panel-slides"></div>
+    </aside>
+
+    <main class="main">
+      <div class="player-wrap">
+        <video id="player" controls></video>
+      </div>
+      <div class="lecture-bar">
+        <div class="lecture-info">
+          <div class="lecture-title" id="lecture-title">Select a lecture to begin</div>
+          <div class="lecture-section" id="lecture-section"></div>
+        </div>
+        <div class="lecture-actions">
+          <button id="prev-btn" title="Previous lecture">⟵ Prev</button>
+          <button id="complete-btn">Mark complete</button>
+          <button id="next-btn" title="Next lecture">Next ⟶</button>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <div id="doc-modal" class="doc-modal hidden">
+    <div class="doc-modal-bar">
+      <span id="doc-modal-title"></span>
+      <a id="doc-modal-open" href="#" target="_blank">Open in new tab ↗</a>
+      <button id="doc-modal-close">✕</button>
+    </div>
+    <iframe id="doc-modal-frame" src=""></iframe>
+  </div>
+
+  <script src="/app.js"></script>
+</body>
+</html>
